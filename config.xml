@@ -3,5 +3,18 @@
         xmlns:gap = "http://phonegap.com/ns/1.0"
         id        = "mx.asx.gas2000"
         version   = "1.0">
+
+    <name>Gas 2000</name>
+
+    <description>
+        Aplicación para pedir el Gas en 2000 Gas, a un clic de distancia.
+    </description>
+
+    <author href="http://asx.mx" email="soporte@asx.mx">
+        ASX.mx
+    </author>
+
 	<icon src="icon.png" />
 </widget>
+
+
